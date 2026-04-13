@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260413193203ZP5LTF</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260413193203M694PU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Legacy Project</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776101463364</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnxgycea-eond70e4z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-eond70e4z</odePageId>
+      <odeBlockId>block-mnxgyceb-eg18zy1o8</odeBlockId>
+      <blockName>Etapa Educativa y Nivel</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-eond70e4z</odePageId>
+          <odeBlockId>block-mnxgyceb-eg18zy1o8</odeBlockId>
+          <odeIdeviceId>idevice-mnxgycec-w29uh8h9x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La situación de aprendizaje está dirigida a<strong> 5.º de Primaria</strong>, en el área de <strong>Inglés</strong>.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La situación de aprendizaje está dirigida a<strong> 5.º de Primaria</strong>, en el área de <strong>Inglés</strong>.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-eond70e4z</odePageId>
+      <odeBlockId>block-mnxgycec-m2jsqoymt</odeBlockId>
+      <blockName>Áreas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-eond70e4z</odePageId>
+          <odeBlockId>block-mnxgycec-m2jsqoymt</odeBlockId>
+          <odeIdeviceId>idevice-mnxgycec-wt35how4f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Lengua Extranjera (Inglés)<br />Vocabulario sobre ocupaciones y profesiones, uso del pasado simple (gramática) y habilidades de expresión oral y escrita.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Lengua Extranjera (Inglés)<br />Vocabulario sobre ocupaciones y profesiones, uso del pasado simple (gramática) y habilidades de expresión oral y escrita.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-eond70e4z</odePageId>
+      <odeBlockId>block-mnxgycec-27116e8y8</odeBlockId>
+      <blockName>Agrupamientos y Organización Espacial:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-eond70e4z</odePageId>
+          <odeBlockId>block-mnxgycec-27116e8y8</odeBlockId>
+          <odeIdeviceId>idevice-mnxgycec-j8rzjtmc0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Principalmente se desarrollará en parejas para elaborar la entrevista.</p>
+<p>También se realizarán actividades de trabajo individual para la creación de algunas actividades de interiorización de contenidos promoviendo la autonomía.</p>
+<p>El cartel se elaborará de manera grupal entre toda la clase.</p>
+<p>Es por esto mismo que la clase se dividirá en grupos de cuatro aunque trabajen por parejas. Dos parejas tendrán el mismo oficio; una pareja eligirá una mujer y la otra un hombre.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Principalmente se desarrollará en parejas para elaborar la entrevista.</p>\n<p>También se realizarán actividades de trabajo individual para la creación de algunas actividades de interiorización de contenidos promoviendo la autonomía.</p>\n<p>El cartel se elaborará de manera grupal entre toda la clase.</p>\n<p>Es por esto mismo que la clase se dividirá en grupos de cuatro aunque trabajen por parejas. Dos parejas tendrán el mismo oficio; una pareja eligirá una mujer y la otra un hombre.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-eond70e4z</odePageId>
+      <odeBlockId>block-mnxgycec-oajzaujei</odeBlockId>
+      <blockName>Temporalización </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-eond70e4z</odePageId>
+          <odeBlockId>block-mnxgycec-oajzaujei</odeBlockId>
+          <odeIdeviceId>idevice-mnxgycec-sjl2pxhek</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>8 sesiones aproximadamente (1 hora / 45 minutos)</p>
+<ul>
+<li>Sesión 1-2-3: Introducción al tema, vocabulario, y trabajo en grupos para investigar figuras profesionales.</li>
+<li>Sesión 4-5-6: Prácticas del pasado simple y desarrollo de la entrevista.</li>
+<li>Sesión 7: Creación del cartel e infografía interactiva.</li>
+<li>Sesión 8: Presentación final y evaluación del producto final.</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>8 sesiones aproximadamente (1 hora / 45 minutos)</p>\n<ul>\n<li>Sesión 1-2-3: Introducción al tema, vocabulario, y trabajo en grupos para investigar figuras profesionales.</li>\n<li>Sesión 4-5-6: Prácticas del pasado simple y desarrollo de la entrevista.</li>\n<li>Sesión 7: Creación del cartel e infografía interactiva.</li>\n<li>Sesión 8: Presentación final y evaluación del producto final.</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-eond70e4z</odePageId>
+      <odeBlockId>block-mnxgycec-x1su3ou17</odeBlockId>
+      <blockName>Productos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-eond70e4z</odePageId>
+          <odeBlockId>block-mnxgycec-x1su3ou17</odeBlockId>
+          <odeIdeviceId>idevice-mnxgycec-izoofu3n0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<ul>
+<li>Infografía interactiva con información sobre profesiones, utilizando la herramienta de Canva.</li>
+<li>Podcasts de las entrevistas grabadas, donde los estudiantes presentan a una persona relevante en una ocupación, usando el pasado simple. Se utilizará la herramienta de  audacity para grabar y editar el vídeo.</li>
+<li>Creación de códigos QR que enlazarán a sus entrevistas grabadas. Estos QR están puestos en el cartel que se colocará finalmente en el pasillo.</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<ul>\n<li>Infografía interactiva con información sobre profesiones, utilizando la herramienta de Canva.</li>\n<li>Podcasts de las entrevistas grabadas, donde los estudiantes presentan a una persona relevante en una ocupación, usando el pasado simple. Se utilizará la herramienta de  audacity para grabar y editar el vídeo.</li>\n<li>Creación de códigos QR que enlazarán a sus entrevistas grabadas. Estos QR están puestos en el cartel que se colocará finalmente en el pasillo.</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-eond70e4z</odePageId>
+      <odeBlockId>block-mnxgycec-jtvtwzsgx</odeBlockId>
+      <blockName>Herramientas y recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-eond70e4z</odePageId>
+          <odeBlockId>block-mnxgycec-jtvtwzsgx</odeBlockId>
+          <odeIdeviceId>idevice-mnxgycec-wacto9a0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<ol>
+<li><strong>Canva</strong> para la creación de infografías interactivas.</li>
+<li><strong>Audacity</strong> para la grabación y edición de audios.</li>
+<li><strong>QR Code Generator</strong> para la creación de los códigos QR que enlazarán a las entrevistas.</li>
+<li><strong>One Drive</strong> para el almacenamiento y organización de los materiales y recursos.</li>
+</ol>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<ol>\n<li><strong>Canva</strong> para la creación de infografías interactivas.</li>\n<li><strong>Audacity</strong> para la grabación y edición de audios.</li>\n<li><strong>QR Code Generator</strong> para la creación de los códigos QR que enlazarán a las entrevistas.</li>\n<li><strong>One Drive</strong> para el almacenamiento y organización de los materiales y recursos.</li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxgycea-v9ytg7o3f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-v9ytg7o3f</odePageId>
+      <odeBlockId>block-mnxgycec-e5lqieamu</odeBlockId>
+      <blockName>Intención educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-v9ytg7o3f</odePageId>
+          <odeBlockId>block-mnxgycec-e5lqieamu</odeBlockId>
+          <odeIdeviceId>idevice-mnxgycec-818bbn012</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Esta situación de aprendizaje se fundamenta en la necesidad de fomentar el aprendizaje significativo del idioma inglés mediante contextos reales y motivadores. El trabajo con las ocupaciones y figuras relevantes de la sociedad, junto con el uso del pasado simple, permite al alumnado no solo desarrollar competencias lingüísticas, sino también conocer referentes positivos, hombres y mujeres, que han contribuido al bienestar colectivo desde diferentes ámbitos profesionales.</p>
+<p>Además, el enfoque interdisciplinar, el uso de herramientas digitales (grabación de entrevistas, códigos QR) y la creación de un producto final cooperativo promueven el aprendizaje activo, la autonomía del alumnado, y la integración de las TIC como medio para comunicar y compartir el conocimiento.</p>
+<p>Esta propuesta también responde a la necesidad de trabajar la igualdad de género, visibilizando el papel de las mujeres en todos los ámbitos profesionales y fomentando valores como el respeto, la empatía y la valoración de la diversidad.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta situación de aprendizaje se fundamenta en la necesidad de fomentar el aprendizaje significativo del idioma inglés mediante contextos reales y motivadores. El trabajo con las ocupaciones y figuras relevantes de la sociedad, junto con el uso del pasado simple, permite al alumnado no solo desarrollar competencias lingüísticas, sino también conocer referentes positivos, hombres y mujeres, que han contribuido al bienestar colectivo desde diferentes ámbitos profesionales.</p>\n<p>Además, el enfoque interdisciplinar, el uso de herramientas digitales (grabación de entrevistas, códigos QR) y la creación de un producto final cooperativo promueven el aprendizaje activo, la autonomía del alumnado, y la integración de las TIC como medio para comunicar y compartir el conocimiento.</p>\n<p>Esta propuesta también responde a la necesidad de trabajar la igualdad de género, visibilizando el papel de las mujeres en todos los ámbitos profesionales y fomentando valores como el respeto, la empatía y la valoración de la diversidad.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxgycea-kb75uia0d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxgycea-kb75uia0d</odePageId>
+      <odeBlockId>block-mnxgycec-cji49j6uz</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgycea-kb75uia0d</odePageId>
+          <odeBlockId>block-mnxgycec-cji49j6uz</odeBlockId>
+          <odeIdeviceId>idevice-mnxgyced-uekc0ep3j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Esta situación de aprendizaje contribuye especialmente al desarrollo de las siguientes<strong> competencias clave</strong>:</p>
+<ul>
+<li>Competencia en comunicación lingüística: Al trabajar todas las destrezas (comprensión y producción oral y escrita) en lengua extranjera.</li>
+<li>Competencia digital: Uso de herramientas digitales para crear vídeos, códigos QR y presentaciones.</li>
+<li>Competencia personal, social y de aprender a aprender: Trabajo cooperativo, autorregulación, reflexión y exposición del trabajo.</li>
+<li>Competencia en conciencia y expresiones culturales: Valoración de distintas figuras relevantes y sus contribuciones culturales/profesionales.</li>
+<li>Competencia social y cívica: A través de la reflexión sobre el papel de hombres y mujeres en diferentes profesiones y su impacto en la sociedad.</li>
+<li>Competencia emprendedora: Al diseñar un producto final original, planificando y resolviendo problemas en equipo.</li>
+</ul>
+<p><strong>Competencias Específicas</strong> del Área de Inglés (5.º Primaria)</p>
+<ul>
+<li>Comprender, interpretar y valorar textos orales y escritos en lengua extranjera con actitud respetuosa y de cooperación.</li>
+<li>Producir textos orales y escritos de forma guiada en lengua extranjera, adecuados a cada situación comunicativa, con sentido, coherencia y corrección.</li>
+<li>Utilizar recursos y estrategias de aprendizaje, de forma cooperativa, autónoma y progresivamente eficaz.</li>
+<li>Valorar la lengua extranjera como medio de comunicación interpersonal, como vehículo de acceso al conocimiento y como herramienta para aprender a lo largo de la vida.</li>
+<li>Mostrar interés y respeto por las manifestaciones culturales de países donde se habla la lengua extranjera.</li>
+</ul>
+<p><strong>Saberes Básicos</strong></p>
+<ul>
+<li>Comunicación oral y escrita: Comprensión y producción de textos breves sobre experiencias pasadas (past simple).</li>
+<li>Funciones comunicativas: Hablar de personas y hechos del pasado; hacer preguntas y dar respuestas.</li>
+<li>Vocabulario: Ocupaciones y profesiones.</li>
+<li>Estructuras gramaticales: Past simple: afirmaciones, negaciones, preguntas. Verbos regulares e irregulares.</li>
+<li>Aspectos socioculturales y sociolingüísticos: Conocimiento de figuras destacadas de distintas culturas; visibilización de la diversidad de género en las profesiones.</li>
+<li>Estrategias de aprendizaje: Trabajo en equipo, uso de TIC, búsqueda guiada de información.</li>
+</ul>
+<p><strong>Criterios de Evaluación</strong></p>
+<ul>
+<li>1.1 Comprender el sentido global, las ideas principales y los detalles relevantes de textos orales breves y adaptados, emitidos en lengua estándar, sobre temas cotidianos y del entorno próximo.</li>
+<li>1.2 Comprender el sentido global y detalles relevantes de textos escritos breves y adaptados.</li>
+<li>2.1 Producir textos orales breves con estructura simple, utilizando el repertorio lingüístico básico, sobre experiencias pasadas y personas conocidas.</li>
+<li>2.2 Producir textos escritos breves, adecuados a la situación comunicativa, sobre biografías, ocupaciones y hechos del pasado.</li>
+<li>3.1 Aplicar estrategias básicas de planificación, revisión y autoevaluación en la elaboración de textos.</li>
+<li>3.2 Utilizar recursos digitales de forma guiada para apoyar la comprensión y producción de textos en lengua extranjera.</li>
+<li>4.1 Mostrar interés y respeto por el uso de la lengua extranjera y por las personas que la utilizan.</li>
+<li>5.1 Reconocer y valorar aspectos culturales relevantes de la vida y de figuras conocidas de otros países.<span style="color: #333333; font-size: 1.05em;"> </span></li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta situación de aprendizaje contribuye especialmente al desarrollo de las siguientes<strong> competencias clave</strong>:</p>\n<ul>\n<li>Competencia en comunicación lingüística: Al trabajar todas las destrezas (comprensión y producción oral y escrita) en lengua extranjera.</li>\n<li>Competencia digital: Uso de herramientas digitales para crear vídeos, códigos QR y presentaciones.</li>\n<li>Competencia personal, social y de aprender a aprender: Trabajo cooperativo, autorregulación, reflexión y exposición del trabajo.</li>\n<li>Competencia en conciencia y expresiones culturales: Valoración de distintas figuras relevantes y sus contribuciones culturales/profesionales.</li>\n<li>Competencia social y cívica: A través de la reflexión sobre el papel de hombres y mujeres en diferentes profesiones y su impacto en la sociedad.</li>\n<li>Competencia emprendedora: Al diseñar un producto final original, planificando y resolviendo problemas en equipo.</li>\n</ul>\n<p><strong>Competencias Específicas</strong> del Área de Inglés (5.º Primaria)</p>\n<ul>\n<li>Comprender, interpretar y valorar textos orales y escritos en lengua extranjera con actitud respetuosa y de cooperación.</li>\n<li>Producir textos orales y escritos de forma guiada en lengua extranjera, adecuados a cada situación comunicativa, con sentido, coherencia y corrección.</li>\n<li>Utilizar recursos y estrategias de aprendizaje, de forma cooperativa, autónoma y progresivamente eficaz.</li>\n<li>Valorar la lengua extranjera como medio de comunicación interpersonal, como vehículo de acceso al conocimiento y como herramienta para aprender a lo largo de la vida.</li>\n<li>Mostrar interés y respeto por las manifestaciones culturales de países donde se habla la lengua extranjera.</li>\n</ul>\n<p><strong>Saberes Básicos</strong></p>\n<ul>\n<li>Comunicación oral y escrita: Comprensión y producción de textos breves sobre experiencias pasadas (past simple).</li>\n<li>Funciones comunicativas: Hablar de personas y hechos del pasado; hacer preguntas y dar respuestas.</li>\n<li>Vocabulario: Ocupaciones y profesiones.</li>\n<li>Estructuras gramaticales: Past simple: afirmaciones, negaciones, preguntas. Verbos regulares e irregulares.</li>\n<li>Aspectos socioculturales y sociolingüísticos: Conocimiento de figuras destacadas de distintas culturas; visibilización de la diversidad de género en las profesiones.</li>\n<li>Estrategias de aprendizaje: Trabajo en equipo, uso de TIC, búsqueda guiada de información.</li>\n</ul>\n<p><strong>Criterios de Evaluación</strong></p>\n<ul>\n<li>1.1 Comprender el sentido global, las ideas principales y los detalles relevantes de textos orales breves y adaptados, emitidos en lengua estándar, sobre temas cotidianos y del entorno próximo.</li>\n<li>1.2 Comprender el sentido global y detalles relevantes de textos escritos breves y adaptados.</li>\n<li>2.1 Producir textos orales breves con estructura simple, utilizando el repertorio lingüístico básico, sobre experiencias pasadas y personas conocidas.</li>\n<li>2.2 Producir textos escritos breves, adecuados a la situación comunicativa, sobre biografías, ocupaciones y hechos del pasado.</li>\n<li>3.1 Aplicar estrategias básicas de planificación, revisión y autoevaluación en la elaboración de textos.</li>\n<li>3.2 Utilizar recursos digitales de forma guiada para apoyar la comprensión y producción de textos en lengua extranjera.</li>\n<li>4.1 Mostrar interés y respeto por el uso de la lengua extranjera y por las personas que la utilizan.</li>\n<li>5.1 Reconocer y valorar aspectos culturales relevantes de la vida y de figuras conocidas de otros países.<span style=\"color: #333333; font-size: 1.05em;\"> </span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxgyceb-ls3s0ngd5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxgyceb-ls3s0ngd5</odePageId>
+      <odeBlockId>block-mnxgyced-3csk71wgn</odeBlockId>
+      <blockName>Metodologías</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgyceb-ls3s0ngd5</odePageId>
+          <odeBlockId>block-mnxgyced-3csk71wgn</odeBlockId>
+          <odeIdeviceId>idevice-mnxgyced-x271gi9u5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Esta situación de aprendizaje se basa principalmente en el <strong>Aprendizaje Basado en Proyectos (ABP)</strong>, ya que todo el proceso gira en torno a la creación de un producto final real y funcional: un cartel colaborativo con códigos QR que enlazan a entrevistas grabadas en inglés.</p>
+<p>Además, se trabaja mediante <strong>aprendizaje cooperativo</strong>, ya que el alumnado organiza sus tareas en grupo, toma decisiones y crea conjuntamente el material, lo que favorece la inclusión y el desarrollo de habilidades sociales.</p>
+<p>También se promueve el <strong>uso guiado de las TIC</strong>, al grabar entrevistas y generar los códigos QR, fortaleciendo la competencia digital del alumnado.</p>
+<p>Finalmente, se integra la <strong>evaluación formativa y la autoevaluación</strong>, lo que permite al alumnado tomar conciencia de su propio proceso de aprendizaje y mejora.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta situación de aprendizaje se basa principalmente en el <strong>Aprendizaje Basado en Proyectos (ABP)</strong>, ya que todo el proceso gira en torno a la creación de un producto final real y funcional: un cartel colaborativo con códigos QR que enlazan a entrevistas grabadas en inglés.</p>\n<p>Además, se trabaja mediante <strong>aprendizaje cooperativo</strong>, ya que el alumnado organiza sus tareas en grupo, toma decisiones y crea conjuntamente el material, lo que favorece la inclusión y el desarrollo de habilidades sociales.</p>\n<p>También se promueve el <strong>uso guiado de las TIC</strong>, al grabar entrevistas y generar los códigos QR, fortaleciendo la competencia digital del alumnado.</p>\n<p>Finalmente, se integra la <strong>evaluación formativa y la autoevaluación</strong>, lo que permite al alumnado tomar conciencia de su propio proceso de aprendizaje y mejora.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxgyceb-44iewk55w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxgyceb-44iewk55w</odePageId>
+      <odeBlockId>block-mnxgyced-lrrtmr9s9</odeBlockId>
+      <blockName>Proyectos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgyceb-44iewk55w</odePageId>
+          <odeBlockId>block-mnxgyced-lrrtmr9s9</odeBlockId>
+          <odeIdeviceId>idevice-mnxgyced-d7au2pfmq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El alumnado participa en el <strong>Programa de radio</strong> del centro, donde abordan temas como la igualdad de género en el ámbito laboral, visibilizando las contribuciones de mujeres y hombres en diversas profesiones. Esta actividad se integra en el <strong>PLEI</strong> (Proyecto Lingüístico de Educación Intercultural), promoviendo la expresión en diferentes idiomas y el respeto por la diversidad cultural.</p>
+<p>El <strong>Programa de salud y bienestar</strong> trabaja hábitos saludables con un enfoque en igualdad de género. El alumnado reflexiona sobre la equidad en el acceso a oportunidades laborales y la importancia de compartir responsabilidades en el ámbito familiar y profesional, alineado con los objetivos del <strong>PAD</strong> (Proyecto de Atención a la Diversidad) y el <strong>PDC</strong> (Plan de Convivencia).</p>
+<p>Ambos programas refuerzan el compromiso del centro con una educación inclusiva, equitativa y respetuosa, promoviendo una sociedad más justa.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El alumnado participa en el <strong>Programa de radio</strong> del centro, donde abordan temas como la igualdad de género en el ámbito laboral, visibilizando las contribuciones de mujeres y hombres en diversas profesiones. Esta actividad se integra en el <strong>PLEI</strong> (Proyecto Lingüístico de Educación Intercultural), promoviendo la expresión en diferentes idiomas y el respeto por la diversidad cultural.</p>\n<p>El <strong>Programa de salud y bienestar</strong> trabaja hábitos saludables con un enfoque en igualdad de género. El alumnado reflexiona sobre la equidad en el acceso a oportunidades laborales y la importancia de compartir responsabilidades en el ámbito familiar y profesional, alineado con los objetivos del <strong>PAD</strong> (Proyecto de Atención a la Diversidad) y el <strong>PDC</strong> (Plan de Convivencia).</p>\n<p>Ambos programas refuerzan el compromiso del centro con una educación inclusiva, equitativa y respetuosa, promoviendo una sociedad más justa.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxgyceb-6wobf071p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxgyceb-6wobf071p</odePageId>
+      <odeBlockId>block-mnxgyced-303or7axa</odeBlockId>
+      <blockName>Actividades complementarias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgyceb-6wobf071p</odePageId>
+          <odeBlockId>block-mnxgyced-303or7axa</odeBlockId>
+          <odeIdeviceId>idevice-mnxgyced-nhkc69o40</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El curso de 5º participó en un taller propiciado por el ayuntamiento de Carreño sobre los prejuicios de encasillar a la gente en etiquetas que no corresponden. El taller se llamaba "La maleta azul", y la monitora les hizo ver de una manera lúdica y activa la importancia de tratar bien a la gente y apreciar las diferencias.</p>
+<p>A través de esta SdA se pretende mostrar que los oficios tampoco tienen etiquetas, y la importancia de valorar todos los oficios. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El curso de 5º participó en un taller propiciado por el ayuntamiento de Carreño sobre los prejuicios de encasillar a la gente en etiquetas que no corresponden. El taller se llamaba \"La maleta azul\", y la monitora les hizo ver de una manera lúdica y activa la importancia de tratar bien a la gente y apreciar las diferencias.</p>\n<p>A través de esta SdA se pretende mostrar que los oficios tampoco tienen etiquetas, y la importancia de valorar todos los oficios. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descarga este eXe</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
+      <odeBlockId>block-mnxgyced-z0d0ndpr1</odeBlockId>
+      <blockName>Licencias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
+          <odeBlockId>block-mnxgyced-z0d0ndpr1</odeBlockId>
+          <odeIdeviceId>idevice-mnxgyced-eiviixre8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Este documento está licenciado como Creative Commons: Reconocimiento - compartir igual 4.0.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Este documento está licenciado como Creative Commons: Reconocimiento - compartir igual 4.0.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
+      <odeBlockId>block-mnxgyced-rlit7yfp2</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
+          <odeBlockId>block-mnxgyced-rlit7yfp2</odeBlockId>
+          <odeIdeviceId>idevice-mnxgyced-6jvjimdoc</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p class="exe-block-warning">Antes de añadir un enlace de descarga a su página vaya a la pestaña de Propiedades y compruebe que la información es correcta.</p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
