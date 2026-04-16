@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260413193203ZP5LTF</value>
+    <value>20260416184430DN3E63</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260413193203M694PU</value>
+    <value>20260416184430WA8G3L</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776101463364</value>
+    <value>1776357730854</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -81,7 +81,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnxgycea-eond70e4z</odePageId>
+  <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Inicio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -93,8 +93,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxgycea-eond70e4z</odePageId>
-      <odeBlockId>block-mnxgyceb-eg18zy1o8</odeBlockId>
+      <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+      <odeBlockId>block-mo1pj1bt-uerwwvl1p</odeBlockId>
       <blockName>Etapa Educativa y Nivel</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -102,9 +102,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-eond70e4z</odePageId>
-          <odeBlockId>block-mnxgyceb-eg18zy1o8</odeBlockId>
-          <odeIdeviceId>idevice-mnxgycec-w29uh8h9x</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+          <odeBlockId>block-mo1pj1bt-uerwwvl1p</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-hiqb5ic1w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>La situación de aprendizaje está dirigida a<strong> 5.º de Primaria</strong>, en el área de <strong>Inglés</strong>.</p>]]></htmlView>
           <jsonProperties><![CDATA[{"textTextarea":"<p>La situación de aprendizaje está dirigida a<strong> 5.º de Primaria</strong>, en el área de <strong>Inglés</strong>.</p>"}]]></jsonProperties>
@@ -115,8 +115,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxgycea-eond70e4z</odePageId>
-      <odeBlockId>block-mnxgycec-m2jsqoymt</odeBlockId>
+      <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+      <odeBlockId>block-mo1pj1bt-ks36ot9ip</odeBlockId>
       <blockName>Áreas</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -124,9 +124,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-eond70e4z</odePageId>
-          <odeBlockId>block-mnxgycec-m2jsqoymt</odeBlockId>
-          <odeIdeviceId>idevice-mnxgycec-wt35how4f</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+          <odeBlockId>block-mo1pj1bt-ks36ot9ip</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-3e7a84r9w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Lengua Extranjera (Inglés)<br />Vocabulario sobre ocupaciones y profesiones, uso del pasado simple (gramática) y habilidades de expresión oral y escrita.</p>]]></htmlView>
           <jsonProperties><![CDATA[{"textTextarea":"<p>Lengua Extranjera (Inglés)<br />Vocabulario sobre ocupaciones y profesiones, uso del pasado simple (gramática) y habilidades de expresión oral y escrita.</p>"}]]></jsonProperties>
@@ -137,8 +137,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxgycea-eond70e4z</odePageId>
-      <odeBlockId>block-mnxgycec-27116e8y8</odeBlockId>
+      <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+      <odeBlockId>block-mo1pj1bt-2a2mgywpp</odeBlockId>
       <blockName>Agrupamientos y Organización Espacial:</blockName>
       <iconName></iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
@@ -146,9 +146,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-eond70e4z</odePageId>
-          <odeBlockId>block-mnxgycec-27116e8y8</odeBlockId>
-          <odeIdeviceId>idevice-mnxgycec-j8rzjtmc0</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+          <odeBlockId>block-mo1pj1bt-2a2mgywpp</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-ad9g9p25z</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Principalmente se desarrollará en parejas para elaborar la entrevista.</p>
 <p>También se realizarán actividades de trabajo individual para la creación de algunas actividades de interiorización de contenidos promoviendo la autonomía.</p>
@@ -162,8 +162,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxgycea-eond70e4z</odePageId>
-      <odeBlockId>block-mnxgycec-oajzaujei</odeBlockId>
+      <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+      <odeBlockId>block-mo1pj1bt-q74uwmflr</odeBlockId>
       <blockName>Temporalización </blockName>
       <iconName></iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
@@ -171,9 +171,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-eond70e4z</odePageId>
-          <odeBlockId>block-mnxgycec-oajzaujei</odeBlockId>
-          <odeIdeviceId>idevice-mnxgycec-sjl2pxhek</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+          <odeBlockId>block-mo1pj1bt-q74uwmflr</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-rzo409ag4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>8 sesiones aproximadamente (1 hora / 45 minutos)</p>
 <ul>
@@ -190,8 +190,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxgycea-eond70e4z</odePageId>
-      <odeBlockId>block-mnxgycec-x1su3ou17</odeBlockId>
+      <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+      <odeBlockId>block-mo1pj1bt-naniksxqs</odeBlockId>
       <blockName>Productos</blockName>
       <iconName></iconName>
       <odePagStructureOrder>4</odePagStructureOrder>
@@ -199,9 +199,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-eond70e4z</odePageId>
-          <odeBlockId>block-mnxgycec-x1su3ou17</odeBlockId>
-          <odeIdeviceId>idevice-mnxgycec-izoofu3n0</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+          <odeBlockId>block-mo1pj1bt-naniksxqs</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-3tr7zfpb4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<ul>
 <li>Infografía interactiva con información sobre profesiones, utilizando la herramienta de Canva.</li>
@@ -216,8 +216,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxgycea-eond70e4z</odePageId>
-      <odeBlockId>block-mnxgycec-jtvtwzsgx</odeBlockId>
+      <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+      <odeBlockId>block-mo1pj1bt-w85zqg59b</odeBlockId>
       <blockName>Herramientas y recursos</blockName>
       <iconName></iconName>
       <odePagStructureOrder>5</odePagStructureOrder>
@@ -225,9 +225,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-eond70e4z</odePageId>
-          <odeBlockId>block-mnxgycec-jtvtwzsgx</odeBlockId>
-          <odeIdeviceId>idevice-mnxgycec-wacto9a0p</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-z9mgxsoa6</odePageId>
+          <odeBlockId>block-mo1pj1bt-w85zqg59b</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-viyylgtjt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<ol>
 <li><strong>Canva</strong> para la creación de infografías interactivas.</li>
@@ -245,7 +245,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxgycea-v9ytg7o3f</odePageId>
+  <odePageId>page-mo1pj1bt-pdyz7wun2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Intención educativa</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -257,8 +257,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxgycea-v9ytg7o3f</odePageId>
-      <odeBlockId>block-mnxgycec-e5lqieamu</odeBlockId>
+      <odePageId>page-mo1pj1bt-pdyz7wun2</odePageId>
+      <odeBlockId>block-mo1pj1bt-0tthz9bma</odeBlockId>
       <blockName>Intención educativa</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -266,9 +266,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-v9ytg7o3f</odePageId>
-          <odeBlockId>block-mnxgycec-e5lqieamu</odeBlockId>
-          <odeIdeviceId>idevice-mnxgycec-818bbn012</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-pdyz7wun2</odePageId>
+          <odeBlockId>block-mo1pj1bt-0tthz9bma</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-0v3rovrlc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Esta situación de aprendizaje se fundamenta en la necesidad de fomentar el aprendizaje significativo del idioma inglés mediante contextos reales y motivadores. El trabajo con las ocupaciones y figuras relevantes de la sociedad, junto con el uso del pasado simple, permite al alumnado no solo desarrollar competencias lingüísticas, sino también conocer referentes positivos, hombres y mujeres, que han contribuido al bienestar colectivo desde diferentes ámbitos profesionales.</p>
 <p>Además, el enfoque interdisciplinar, el uso de herramientas digitales (grabación de entrevistas, códigos QR) y la creación de un producto final cooperativo promueven el aprendizaje activo, la autonomía del alumnado, y la integración de las TIC como medio para comunicar y compartir el conocimiento.</p>
@@ -283,7 +283,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxgycea-kb75uia0d</odePageId>
+  <odePageId>page-mo1pj1bt-bm9inoi2h</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Elementos curriculares</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -295,8 +295,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxgycea-kb75uia0d</odePageId>
-      <odeBlockId>block-mnxgycec-cji49j6uz</odeBlockId>
+      <odePageId>page-mo1pj1bt-bm9inoi2h</odePageId>
+      <odeBlockId>block-mo1pj1bt-pmtu6x1bb</odeBlockId>
       <blockName>Elementos curriculares</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -304,9 +304,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgycea-kb75uia0d</odePageId>
-          <odeBlockId>block-mnxgycec-cji49j6uz</odeBlockId>
-          <odeIdeviceId>idevice-mnxgyced-uekc0ep3j</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-bm9inoi2h</odePageId>
+          <odeBlockId>block-mo1pj1bt-pmtu6x1bb</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-m9yy8zpgp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Esta situación de aprendizaje contribuye especialmente al desarrollo de las siguientes<strong> competencias clave</strong>:</p>
 <ul>
@@ -355,7 +355,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxgyceb-ls3s0ngd5</odePageId>
+  <odePageId>page-mo1pj1bt-qw1af6btf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Metodologías activas</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -367,8 +367,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxgyceb-ls3s0ngd5</odePageId>
-      <odeBlockId>block-mnxgyced-3csk71wgn</odeBlockId>
+      <odePageId>page-mo1pj1bt-qw1af6btf</odePageId>
+      <odeBlockId>block-mo1pj1bt-k8jx2dar6</odeBlockId>
       <blockName>Metodologías</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -376,9 +376,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgyceb-ls3s0ngd5</odePageId>
-          <odeBlockId>block-mnxgyced-3csk71wgn</odeBlockId>
-          <odeIdeviceId>idevice-mnxgyced-x271gi9u5</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-qw1af6btf</odePageId>
+          <odeBlockId>block-mo1pj1bt-k8jx2dar6</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-ynkk07rc7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Esta situación de aprendizaje se basa principalmente en el <strong>Aprendizaje Basado en Proyectos (ABP)</strong>, ya que todo el proceso gira en torno a la creación de un producto final real y funcional: un cartel colaborativo con códigos QR que enlazan a entrevistas grabadas en inglés.</p>
 <p>Además, se trabaja mediante <strong>aprendizaje cooperativo</strong>, ya que el alumnado organiza sus tareas en grupo, toma decisiones y crea conjuntamente el material, lo que favorece la inclusión y el desarrollo de habilidades sociales.</p>
@@ -394,7 +394,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxgyceb-44iewk55w</odePageId>
+  <odePageId>page-mo1pj1bt-v0qzhw9cz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Vinculación con los proyectos y programas del centro</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -406,8 +406,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxgyceb-44iewk55w</odePageId>
-      <odeBlockId>block-mnxgyced-lrrtmr9s9</odeBlockId>
+      <odePageId>page-mo1pj1bt-v0qzhw9cz</odePageId>
+      <odeBlockId>block-mo1pj1bt-4vn570uqw</odeBlockId>
       <blockName>Proyectos</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -415,9 +415,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgyceb-44iewk55w</odePageId>
-          <odeBlockId>block-mnxgyced-lrrtmr9s9</odeBlockId>
-          <odeIdeviceId>idevice-mnxgyced-d7au2pfmq</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-v0qzhw9cz</odePageId>
+          <odeBlockId>block-mo1pj1bt-4vn570uqw</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-n28uwv08t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>El alumnado participa en el <strong>Programa de radio</strong> del centro, donde abordan temas como la igualdad de género en el ámbito laboral, visibilizando las contribuciones de mujeres y hombres en diversas profesiones. Esta actividad se integra en el <strong>PLEI</strong> (Proyecto Lingüístico de Educación Intercultural), promoviendo la expresión en diferentes idiomas y el respeto por la diversidad cultural.</p>
 <p>El <strong>Programa de salud y bienestar</strong> trabaja hábitos saludables con un enfoque en igualdad de género. El alumnado reflexiona sobre la equidad en el acceso a oportunidades laborales y la importancia de compartir responsabilidades en el ámbito familiar y profesional, alineado con los objetivos del <strong>PAD</strong> (Proyecto de Atención a la Diversidad) y el <strong>PDC</strong> (Plan de Convivencia).</p>
@@ -432,7 +432,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxgyceb-6wobf071p</odePageId>
+  <odePageId>page-mo1pj1bt-abhcz7hi4</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Actividades complementarias y extraescolares</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -444,8 +444,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxgyceb-6wobf071p</odePageId>
-      <odeBlockId>block-mnxgyced-303or7axa</odeBlockId>
+      <odePageId>page-mo1pj1bt-abhcz7hi4</odePageId>
+      <odeBlockId>block-mo1pj1bt-nfvtd1cic</odeBlockId>
       <blockName>Actividades complementarias</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -453,9 +453,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgyceb-6wobf071p</odePageId>
-          <odeBlockId>block-mnxgyced-303or7axa</odeBlockId>
-          <odeIdeviceId>idevice-mnxgyced-nhkc69o40</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-abhcz7hi4</odePageId>
+          <odeBlockId>block-mo1pj1bt-nfvtd1cic</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-888y1y914</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>El curso de 5º participó en un taller propiciado por el ayuntamiento de Carreño sobre los prejuicios de encasillar a la gente en etiquetas que no corresponden. El taller se llamaba "La maleta azul", y la monitora les hizo ver de una manera lúdica y activa la importancia de tratar bien a la gente y apreciar las diferencias.</p>
 <p>A través de esta SdA se pretende mostrar que los oficios tampoco tienen etiquetas, y la importancia de valorar todos los oficios. </p>]]></htmlView>
@@ -469,7 +469,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
+  <odePageId>page-mo1pj1bt-dk9032ctr</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Descarga este eXe</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -481,8 +481,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
-      <odeBlockId>block-mnxgyced-z0d0ndpr1</odeBlockId>
+      <odePageId>page-mo1pj1bt-dk9032ctr</odePageId>
+      <odeBlockId>block-mo1pj1bt-6gqtq7lmm</odeBlockId>
       <blockName>Licencias</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -490,9 +490,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
-          <odeBlockId>block-mnxgyced-z0d0ndpr1</odeBlockId>
-          <odeIdeviceId>idevice-mnxgyced-eiviixre8</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-dk9032ctr</odePageId>
+          <odeBlockId>block-mo1pj1bt-6gqtq7lmm</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-xnb4z6sej</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Este documento está licenciado como Creative Commons: Reconocimiento - compartir igual 4.0.</p>]]></htmlView>
           <jsonProperties><![CDATA[{"textTextarea":"<p>Este documento está licenciado como Creative Commons: Reconocimiento - compartir igual 4.0.</p>"}]]></jsonProperties>
@@ -503,8 +503,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
-      <odeBlockId>block-mnxgyced-rlit7yfp2</odeBlockId>
+      <odePageId>page-mo1pj1bt-dk9032ctr</odePageId>
+      <odeBlockId>block-mo1pj1bt-jryp5mtyp</odeBlockId>
       <blockName>Descargar archivo fuente</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -512,13 +512,75 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxgyceb-d4vokf5aj</odePageId>
-          <odeBlockId>block-mnxgyced-rlit7yfp2</odeBlockId>
-          <odeIdeviceId>idevice-mnxgyced-6jvjimdoc</odeIdeviceId>
+          <odePageId>page-mo1pj1bt-dk9032ctr</odePageId>
+          <odeBlockId>block-mo1pj1bt-jryp5mtyp</odeBlockId>
+          <odeIdeviceId>idevice-mo1pj1bt-y9i36o0ov</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
           <htmlView><![CDATA[<p class="exe-block-warning">Antes de añadir un enlace de descarga a su página vaya a la pestaña de Propiedades y compruebe que la información es correcta.</p>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1pj1bt-dk9032ctr</odePageId>
+      <odeBlockId>block-1776357761398-0ovpx7wtk</odeBlockId>
+      <blockName>Download source file</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1pj1bt-dk9032ctr</odePageId>
+          <odeBlockId>block-1776357761398-0ovpx7wtk</odeBlockId>
+          <odeIdeviceId>idevice-1776357761396-lfl129i6h</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Legacy Project</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
